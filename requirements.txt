@@ -1,0 +1,7 @@
+pinecone-client
+langchain
+openai
+azure-identity
+tiktoken
+fastapi
+uvicorn
